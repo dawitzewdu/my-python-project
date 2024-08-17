@@ -4,12 +4,12 @@ from telegram import Bot
 import asyncio
 
 # Instagram credentials
-# USERNAME = "username"
-# PASSWORD = "password"
+USERNAME = "one.9258"
+PASSWORD = "asdf999999"
 
 # Telegram bot token and chat ID
-# TELEGRAM_TOKEN = 'token'
-# TELEGRAM_CHAT_ID = 'channelusername'  # Use @ followed by your channel's username
+TELEGRAM_TOKEN = '7488887967:AAHvxO00J7Vvk-OTQm6v9USu-ImL9zhETZM'
+TELEGRAM_CHAT_ID = '@thebigassshow'  
 
 # Initialize Instaloader
 L = instaloader.Instaloader()
